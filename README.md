@@ -1,11 +1,3 @@
-<!--
- * @Author: ssunguotu 876821825@qq.com
- * @Date: 2023-11-30 17:46:40
- * @LastEditors: ssunguotu 876821825@qq.com
- * @LastEditTime: 2023-11-30 17:48:12
- * @FilePath: \PAIT\README.md
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
--->
 # Progressive Adverse Image Translation (PAIT)
 **Datasets and Code will be released after acceptance.**
 
@@ -21,14 +13,16 @@ This work aims to improve the performance of object detection models under compl
 
 
 
-<img src="images\overall.jpg" style="zoom:50%;" />
+<img src="images\overall.jpg" width="500px" />
 
 Illustration of our task and approach.
 
 
 
-![](images\image1.jpg)
+<img src="images\image1.jpg">
 
-![](images\image2.jpg)
+
+
+<img src="images\image2.jpg">
 
 Qualitative results of PAIT and baseline on BDD100K.
